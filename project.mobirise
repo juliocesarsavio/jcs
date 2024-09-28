@@ -53,7 +53,7 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/j-128x128.png",
-    "mbrsiteDomain": "txvnndbfhl",
+    "mbrsiteDomain": "m0taolx1oj",
     "imageResize": true,
     "usedWebp": true,
     "robotsSwitcher": false,
@@ -70,7 +70,23 @@
     "site_lang": "pt-br",
     "global_header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-5PQX439P');</script>\n<!-- End Google Tag Manager -->",
     "global_after_body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5PQX439P\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
-    "pwa-switcher": false
+    "pwa-switcher": false,
+    "chatbutton": {
+      "phone": "5516993794419",
+      "message": "",
+      "size": "65px",
+      "backgroundColor": "#e5ddd5",
+      "position": "left",
+      "popupMessage": "Hi!👋\n\nType a message here. It will go straight to our phone! 🔥\n\nMobirise Team",
+      "showPopup": false,
+      "showOnIE": true,
+      "autoOpenTimeout": "5",
+      "headerColor": "#39847a",
+      "headerTitle": "👋 Chat with us on WhatsApp!",
+      "placeholder": "Dúvidas?",
+      "zIndex": 10,
+      "enabled": true
+    }
   },
   "pages": {
     "index.html": {
